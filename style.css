@@ -157,6 +157,7 @@ footer{
     justify-content:center;
     padding: 26px;
     color: white;
+    background-color: rbg(121, 11, 249, 0,5)
     font-size: 18px;
 }
 
