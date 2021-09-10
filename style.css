@@ -44,6 +44,7 @@ h2{
 a{
     color: inherit;
     text-decoration: none;
+    display: block;
 }
 
 .paragraph{
@@ -86,7 +87,8 @@ ul.paragraph li span{
 
 .linkbuttIntro span{
     margin-left: 11px;
-    display: flex;
+    display: inline;
+    margin-bottom: -0.6vh
 }
 
 .linkbuttIntro span img{
