@@ -29,6 +29,10 @@ body {
   top: 0;
 }
 
+.logo-anchor {
+  display: inline;
+}
+
 .logo-img {
   width: 25%;
 }
@@ -183,7 +187,6 @@ header {
 }
 
 header .nav {
-  padding-top: 3.5vh;
   display: flex;
   align-items: center;
   color: white;
